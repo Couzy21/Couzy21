@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Couzy21
-- 👀 I’m write Python for Web Development, setup ETL pipelines
+- 👀 I write Python for Web Development, setup ETL pipelines
 - 💞️ I’m looking to collaborate on projects, Hackathons
 - 📫 How to reach me Whatsapp: +2348169677008; Email: Courageabudu@gmail.com 
 Frameworks:
